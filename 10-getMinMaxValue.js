@@ -1,4 +1,4 @@
-// Get max value
+// Get MaxValue
 function getMaxValueFromArray(array) {
   return Math.max(...array);
 }
@@ -6,7 +6,7 @@ function getMaxValueFromArray(array) {
 console.log(getMaxValueFromArray([3, 6, -2, -5, 7, 3])); // 7
 
 
-// Get min Value
+// Get MinValue
 function getMinValueFromArray(array) {
   return Math.min(...array);
 }
